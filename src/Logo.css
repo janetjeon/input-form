@@ -1,0 +1,29 @@
+.logo__wrapper {
+  background: #7e24fa;
+  color: #f4ecff;
+  width: 50vw;
+  padding-top: 20vh;
+}
+
+.logo__wrapper--content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  height: 20vh;
+}
+
+.logo {
+  background: linear-gradient(45deg, #7e24fa, #fff);
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px solid #caaef2;
+}
+
+/* 
+img {
+  display: block;
+  width: 100%;
+} */
+

@@ -1,0 +1,25 @@
+.success__wrapper {
+    background: #7e24fa;
+    color: #f4ecff;
+    text-align: center;
+    width: 50vw;
+    padding-top: 20vh;
+}
+
+.success__msg--wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:  center;
+    height: 50vh;
+}
+
+.success__btn button {
+    background: #f4ecff;
+    color: #7e24fa;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+    padding: 0.5em 2em;
+    cursor: pointer;
+}
